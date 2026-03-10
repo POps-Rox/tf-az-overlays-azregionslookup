@@ -1,3 +1,11 @@
+<!-- BADGES:START -->
+[![CI](https://github.com/POps-Rox/tf-az-overlays-azregionslookup/actions/workflows/ci.yml/badge.svg)](https://github.com/POps-Rox/tf-az-overlays-azregionslookup/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/POps-Rox/tf-az-overlays-azregionslookup/pulls)
+[![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/POps-Rox/tf-az-overlays-azregionslookup/graphs/commit-activity)
+[![Terraform](https://img.shields.io/badge/Terraform-%3E%3D1.5-623CE4.svg?logo=terraform)](https://www.terraform.io)
+<!-- BADGES:END -->
+
 # Azure Regions Lookup Overlay
 
 The AzureRM terraform provider is made easier to use with the aid of this Terraform module.
