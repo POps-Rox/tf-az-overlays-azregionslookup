@@ -2,7 +2,7 @@
 # CONFIGURE OUR AZURE PROVIDER
 # --------------------------
 
-provider "azurerm" {  
+provider "azurerm" {
   features {}
 }
 
@@ -11,8 +11,8 @@ provider "azurerm" {
 # ---------
 
 module "mod_azure_region_lookup" {
-  source  = "../.."
-  
+  source = "../.."
+
   azure_region = "eastus"
 }
 
